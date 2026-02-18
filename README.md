@@ -1,13 +1,8 @@
 # Modeling Functional Connectivity During Movie Watching with Intracranial EEG
-
-**Course:** BMED 7610: Quantitative Neuroscience (Georgia Tech)
-
-**Code:** All code displayed in this repository and the entirety of report portions on EEGNet was written by Areeb Khalfay.
-
 ## Project Overview
-This project investigates how the human brain processes naturalistic visual stimuli (movies) using intracranial EEG (iEEG). We utilized Deep Learning (**EEGNet Convolutional Neural Network**) to distinguish between "continuous cuts" and "scene changes" in the movie *"Bang! You're Dead"* (Alfred Hitchcock).
+This project investigates how the human brain processes naturalistic visual stimuli (movies) using intracranial EEG (iEEG). This was a group project done for the BMED 7610(Quantitative Neuroscience) graduate study class at Georgia Tech. We utilized Deep Learning (**EEGNet Convolutional Neural Network**) to distinguish between "continuous cuts" and "scene changes" in the movie *"Bang! You're Dead"* (Alfred Hitchcock).
 
-The codebase has been created with the original research data into a modular Python pipeline for reproducibility.
+The codebase has been created with the original research data into a modular Python pipeline for reproducibility. **All code displayed in this repository and the entirety of report portions on EEGNet was written by Areeb Khalfay.**
 
 ## Project Structure
 ```text
