@@ -1,7 +1,5 @@
 # Modeling Functional Connectivity During Movie Watching with Intracranial EEG
 
-**Authors:** Reilly Jensen, Gertrude Asumpaame Alayine, Areeb Khalfay  
-
 **Course:** BMED 7610: Quantitative Neuroscience (Georgia Tech)
 
 **Code:** All code displayed in this repository and the entirety of report portions on EEGNet was written by Areeb Khalfay.
