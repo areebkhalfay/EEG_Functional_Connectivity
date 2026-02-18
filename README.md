@@ -124,3 +124,6 @@ If you wish to extend or modify specific parts of the pipeline, here is where to
 * **`src/data_loader.py`**: Handles the heavy lifting of reading NWB files. Check `make_one_window_per_cut` to see how we sliced EEG data relative to movie timestamps.
 * **`src/train.py`**: Contains the training loop (`train_one_fold`). This is where the optimizer, loss function, and backpropagation happen.
 * **`src/analysis.py`**: Contains the logic for extracting spatial weights from the model to visualize functional connectivity (brain region correlations).
+
+## License
+This project is licensed under the terms of the [MIT License](LICENSE).
