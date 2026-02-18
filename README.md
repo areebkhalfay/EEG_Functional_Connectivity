@@ -84,7 +84,7 @@ Clone the repository and install the required libraries:
 ```bash
 # Clone the repo
 git clone https://github.com/areebkhalfay/EEG_Functional_Connectivity.git
-cd movie-ieeg-connectivity
+cd EEG_Functional_Connectivity
 
 # Install dependencies
 pip install -r requirements.txt
