@@ -1,7 +1,9 @@
 # Modeling Functional Connectivity During Movie Watching with Intracranial EEG
 
 **Authors:** Reilly Jensen, Gertrude Asumpaame Alayine, Areeb Khalfay  
+
 **Course:** BMED 7610: Quantitative Neuroscience (Georgia Tech)
+
 **Code:** All code displayed in this repository and the entirety of report portions on EEGNet was written by Areeb Khalfay.
 
 ## Project Overview
@@ -46,7 +48,7 @@ movie-ieeg-connectivity/
 
 For a deep dive into the neuroscience background, the `EEGNet` architecture, and our specific findings regarding functional connectivity in the Theta/Alpha bands, please refer to our **Final Report**:
 
-**[Full Report (PDF)](docs/BMED_7610_Final_Report.pdf)**
+**[Full Report (PDF)](https://github.com/areebkhalfay/EEG_Functional_Connectivity/blob/main/report/BMED%207610%20Final%20Report%20-%20Jensen%2C%20Alayine%2C%20Khalfay.pdf)**
 
 ## Results Summary
 * **FC Analysis:** Scene changes showed slightly higher theta-band coherence between the Hippocampus and vmPFC compared to continuous cuts.
@@ -81,7 +83,7 @@ Clone the repository and install the required libraries:
 
 ```bash
 # Clone the repo
-git clone [https://github.com/YOUR_USERNAME/movie-ieeg-connectivity.git](https://github.com/YOUR_USERNAME/movie-ieeg-connectivity.git)
+git clone https://github.com/areebkhalfay/EEG_Functional_Connectivity.git
 cd movie-ieeg-connectivity
 
 # Install dependencies
