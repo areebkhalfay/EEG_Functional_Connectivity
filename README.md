@@ -12,7 +12,7 @@ movie-ieeg-connectivity/
 │   ├── sub-CS41/           # Subject folders matching NWB structure
 │   └── scenecut_info.csv   # Scene cut metadata
 │
-├── docs/
+├── report/
 │   └── BMED_7610_Final_Report.pdf  # Full scientific report
 │
 ├── results/                # Generated figures and logs
